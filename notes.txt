@@ -1,0 +1,71 @@
+Parking spot 10:
+	Run time	= 37.61 s.	Motion duration	= 44.00 s.
+	Path length	= 40.72 m.	Final cost		= 9.98e-04.
+	Collision with obstacles: False.
+	Distance to obstacles constraint satisfied: True.
+	Final state error in absolut values:
+	x		=	6.31e-04 m
+	y		= 	5.35e-04 m
+	psi		=	-5.47e-04 rad (-3.13e-02 deg)
+	v		= 	5.98e-05 m/s
+ 	delta	=	1.82e-01 rad (1.04e+01 deg)
+	a		=	9.39e-05 m/s^2
+>> 
+
+Parking spot 10:
+	Run time	= 4.05 s.	Motion duration	= 44.00 s.
+	Path length	= 39.76 m.	Final cost		= 8.30e-03.
+	Collision with obstacles: False.
+	Distance to obstacles constraint satisfied: True.
+	Final state error in absolut values:
+	x		=	5.53e-03 m
+	y		= 	3.28e-03 m
+	psi		=	5.15e-03 rad (2.95e-01 deg)
+	v		= 	9.05e-04 m/s
+ 	delta	=	3.31e-03 rad (1.90e-01 deg)
+	a		=	4.29e-04 m/s^2
+
+
+
+
+Parking spot 10:
+	Run time	= 6.41 s.	Motion duration	= 44.00 s.
+	Path length	= 40.34 m.	Final cost		= 1.85e-03.
+	Collision with obstacles: False.
+	Distance to obstacles constraint satisfied: True.
+	Final state error in absolut values:
+	x		=	8.90e-04 m
+	y		= 	3.48e-04 m
+	psi		=	1.46e-03 rad (8.38e-02 deg)
+	v		= 	5.78e-04 m/s
+ 	delta	=	4.32e-02 rad (2.48e+00 deg)
+	a		=	2.27e-04 m/s^2
+
+
+
+Run time	= 6.91 s.	Motion duration	= 44.00 s.
+	Path length	= 40.60 m.	Final cost		= 6.41e-03.
+	Collision with obstacles: False.
+	Distance to obstacles constraint satisfied: True.
+	Final state error in absolut values:
+	x		=	3.20e-03 m
+	y		= 	3.91e-03 m
+	psi		=	2.17e-04 rad (1.24e-02 deg)
+	v		= 	3.72e-03 m/s
+ 	delta	=	2.35e-01 rad (1.35e+01 deg)
+	a		=	1.30e-03 m/s^2
+
+
+
+Parking spot 10:
+	Run time	= 25.35 s.	Motion duration	= 44.00 s.
+	Path length	= 40.88 m.	Final cost		= 6.80e-04.
+	Collision with obstacles: False.
+	Distance to obstacles constraint satisfied: True.
+	Final state error in absolut values:
+	x		=	3.55e-04 m
+	y		= 	2.00e-04 m
+	psi		=	1.14e-04 rad (6.55e-03 deg)
+	v		= 	2.03e-04 m/s
+ 	delta	=	1.76e-01 rad (1.01e+01 deg)
+	a		=	4.93e-04 m/s^2
